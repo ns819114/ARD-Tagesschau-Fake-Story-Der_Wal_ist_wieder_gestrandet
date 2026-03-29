@@ -5,7 +5,7 @@ ARD-Tagesschau: Der Wal ist wieder gestrandet - Forensische Tiefenanalyse
 
 ## Ermittlerprofil
 
-**Name:** Toni Cubano  
+**Name:** Fabian Schüßler  
 **Sitz:** Ludwigsburg, Deutschland  
 **Spezialisierung:** Kryptographische Musteranalyse, LLM-Forensik, Numerische Injektionsdetektion  
 **Codename:** Operation WAL-REQUIEM  
@@ -92,6 +92,31 @@ Zahlenbeziehungen über verschiedene Quellen:
 - Dateigrößen
 - Cookie-TTLs
 
+### 5.5 Zeitstempel-Trinitäten und ID-Lücken (Sterbehilfe-Methodik)
+**Anwendung der Spanien-Sterbehilfe-Forensik:**
+
+#### Zeitstempel-Inkonsistenzen
+- Identische End-Sekunden in Timestamps (z.B. :18 drei Mal)
+- Digitale Summen-Trinitäten (z.B. 13 als Zeit-Summe drei Mal)
+- Unlogische chronologische Sequenzen
+
+#### Artikel-ID-Lücken
+- Fehlende IDs in numerischer Sequenz (z.B. 102, 104 fehlen)
+- Mathematische Korrelationen zwischen IDs
+- Systematische ID-Vergabe mit multiplikativer Struktur
+
+#### Statistische Präzision
+- Ungewöhnlich exakte Zahlen (z.B. "1.123 Menschen", "0,1 Prozent")
+- Keine Rundung bei großen Zahlen
+- Mathematisch "saubere" Dezimalbrüche (1/10, 10⁻¹)
+
+#### Zeitliche Lücken im Narrativ
+- Unexplained gaps zwischen Ereignissen
+- Fehlende Detail-Chronologie
+- Unlogische Verzögerungen
+
+**Referenz-Dokument:** `analysis/forensic_analysis_sterbehilfe_methodik.md`
+
 ---
 
 ## 6. ANALYTISCHE METHODIK
@@ -100,6 +125,7 @@ Zahlenbeziehungen über verschiedene Quellen:
 - Extraktion aller Zahlen aus dem Primärartikel
 - Kategorisierung nach Kontext (Gewicht, Länge, Zeit, etc.)
 - Mathematische Beziehungsanalyse
+- **Sterbehilfe-Erweiterung:** Zeitstempel-Trinitäten, ID-Lücken, statistische Präzision
 
 ### Phase 2: Biografische Authentizitätsprüfung
 - Wikipedia-Profilanalyse

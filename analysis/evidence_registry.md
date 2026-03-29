@@ -167,5 +167,5 @@ All screenshots captured with:
 ---
 
 **Registry Date:** 28.03.2026  
-**Investigator:** Toni Cubano  
+**Investigator:** Fabian Schüßler  
 **Status:** Phase 1 & 2 Complete - Evidence Fully Documented

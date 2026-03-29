@@ -266,7 +266,7 @@ The difference is subtle but significant:
 
 **Investigation Date:** 28. März 2026  
 **Last Updated:** 28. März 2026, 23:00 Uhr  
-**Investigator:** Toni Cubano  
+**Investigator:** Fabian Schüßler  
 **Status:** Comprehensive Construction Analysis Complete
 
 **Final Verdict:**

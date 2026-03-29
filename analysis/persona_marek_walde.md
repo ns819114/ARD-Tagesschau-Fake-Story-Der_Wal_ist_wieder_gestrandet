@@ -222,7 +222,7 @@ This requires re-evaluation of the investigation approach. The presence of a rea
 
 **Investigation Date:** 28. März 2026  
 **Last Updated:** 28. März 2026, 22:00 Uhr  
-**Investigator:** Toni Cubano  
+**Investigator:** Fabian Schüßler  
 **Status:** Persona Investigation Complete - REAL PERSON VERIFIED
 
 ---

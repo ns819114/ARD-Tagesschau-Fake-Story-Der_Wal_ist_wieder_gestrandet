@@ -179,7 +179,7 @@ No signs of AI construction detected:
 
 **Investigation Date:** 28. März 2026  
 **Last Updated:** 28. März 2026, 22:50 Uhr  
-**Investigator:** Toni Cubano  
+**Investigator:** Fabian Schüßler  
 **Status:** Persona Investigation Complete - REAL PERSON (LIMITED DATA)
 
 ---

@@ -183,5 +183,5 @@ All articles share: **28.03.2026**
 ---
 
 **Analysis Date:** 28.03.2026  
-**Analyst:** Toni Cubano  
+**Analyst:** Fabian Schüßler  
 **File:** linked_articles_analysis.md

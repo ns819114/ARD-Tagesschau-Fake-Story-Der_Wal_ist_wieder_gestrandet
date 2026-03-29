@@ -183,5 +183,5 @@
 ---
 
 **Extraction Date:** 28.03.2026
-**Investigator:** Toni Cubano
+**Investigator:** Fabian Schüßler
 **Status:** Phase 1 Complete - Ready for Pattern Analysis

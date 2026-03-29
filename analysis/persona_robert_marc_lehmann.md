@@ -130,5 +130,5 @@ While Robert Marc Lehmann is real, the **0,1 Prozent** quote referenced in wal-2
 ---
 
 **Investigation Date:** 28.03.2026  
-**Investigator:** Toni Cubano  
+**Investigator:** Fabian Schüßler  
 **Status:** Persona Investigation Complete - REAL
